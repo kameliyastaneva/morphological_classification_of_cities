@@ -1,0 +1,1 @@
+WORLD_CRS = "EPSG:4326"

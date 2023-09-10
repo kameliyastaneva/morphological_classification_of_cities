@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+.vscode/
+cache/
+env/
+__pycache__/
+data/cities/
+sample_data/
+data/all_buildings.csv
+data/all_streets.csv
+data/tessellations/
+logs/
+archive/
+data/
+*.csv
+*.geojson
+*.logs
+*.pdf
